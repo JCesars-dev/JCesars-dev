@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=190&section=header&text=Julio+Cesar&fontSize=46&fontColor=000000&fontAlignY=40&animation=fadeIn" width="100%" alt="Julio Cesar"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=190&section=header&text=Julio+Cesar&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Julio Cesar"/>
 
 <br/>
 
@@ -32,4 +32,4 @@
   <img src="https://streak-stats.demolab.com/?user=JCesars-Dev&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak de contribuições"/>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000787&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
