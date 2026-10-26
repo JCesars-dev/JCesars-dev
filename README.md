@@ -12,7 +12,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,py,mysql,html,css,js&theme=dark" alt="Java, C, Python, MySQL, HTML, CSS, JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=c,py,mysql,html,css,js,ts,react&theme=dark" alt="C, Python, MySQL, HTML, CSS, JavaScript, TypeScript, React"/>
 </p>
 
 ## 🧰 Ferramentas & Ambiente
